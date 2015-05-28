@@ -2,7 +2,7 @@
 by Steev
 2003.04.02
 
-This code is distributed with NO LICENSE.  If it messes up your computer, don't blame me.
+This code is distributed under the MIT license.
 
 This should compile in a Turbo Pascal compiler, if you can find one.}
 program exam2_phase2;
